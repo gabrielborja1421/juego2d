@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 09c69cea251c05e4f827a6007d4d0b4f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - bg: {instanceID: 0}
+  - col1: {fileID: 5280231412205646986, guid: 854bd60aed3a0b34a9a72879663e7f5b, type: 3}
+  - picos1: {fileID: 8716350815973932340, guid: 00b41595a5fa1b04cbdcde003282fd27, type: 3}
+  - picos2: {fileID: 4719655419190783172, guid: 528ba8ae318141b48970d7bc933e85af, type: 3}
+  - rasho1: {fileID: 6406424105476143835, guid: 907746c73a2f57347a01e8a3a2df85ae, type: 3}
+  - rasho2: {fileID: 4734788545986103780, guid: 124bdb2920a93b04a9b08f611887254b, type: 3}
+  - rasho3: {fileID: 3945393994624150915, guid: 78cb531c2c3602648a2d3381063c1533, type: 3}
+  - menuInicio: {fileID: 2970980652707124232, guid: 8385af530713db945b9f1f15afdf0d5e, type: 3}
+  - menuGameOver: {fileID: 2219016278962634814, guid: 204416d60dbcc6f43a78d5c64231b85b, type: 3}
+  - energyBarFill: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
